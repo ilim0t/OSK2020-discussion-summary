@@ -5,13 +5,19 @@ robots: noindex, nofollow
 ---
 
 :::warning
-:construction:編集中:wrench:
+:construction: 編集中 :wrench:
 :::
+
+###### tags: `OSK` `commitee2020`
 
 
 # よく分かる! 議論の現状
 OSK2020に向けての議論を重ねているけど、正直長いし散財して追いきれない!
 → **まとめました**
+
+<!--
+各テーマ、スマホやPCで見たとき1スクロール以内に収まることを目標に
+-->
 
 
 ## 目次
@@ -29,37 +35,128 @@ OSK2020に向けての議論を重ねているけど、正直長いし散財し�
 ___
 
 # 現在までになされたテーマ
+* 部費
+* 部則
+  * 議決権 
+* 活動方針
+  * 対外的活動
+  * 部誌
+  * 活動報告会
+* 予算割当・申請
+* 部室
+* 活動場所
+  * Slack times
+* 運営方法
+  * オンライン化
+* 
+
 
 # 周知を目的とし概観把握のためのまとめ
 
-## 環境
+:::warning
+:construction: 編集中 :wrench:
+:::
+
+<!-- ## 環境
 活動場所(オンライン)
 活動時期
 部室
 運営方法
-部費
+部費 -->
 
 - - -
 
-# 議論に参加したい人へのまとめ
+# conference2020での議題ベースの分類
 <!--
 時系列順
 -->
 
 ## 部費の減額について
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280354005900)
+> [time=Thu, May 28, 2020 12:13 AM]
+
+```
+去年余っていたし、部費減らしませんか？
+```
+
+#### 背景
+1. 他サークルの比較すると金額に開きがある
+2. 過去の収支で大きく余っている
+
+#### 意見
+1. サークルの活動内容など踏まえた他サークルとの比較ができていない
+2. 部費を運用方針を定めなければ見積もりができない
+
+#### 現状
+どの意見も解決へ向けての具体的な議論がなされずに日が経っています。
+> 現在は、COVID-19による状況を受け新たな議題[コロナ影響を受けた上での部費に関して](#コロナ影響を受けた上での部費に関して)が立ち上がっています。そちらも参照ください。
+> [name=執筆者(ilim)]
+
+#### リンク
+[2019年度会計報告](https://docs.google.com/spreadsheets/d/1O4bLfHzKMRxuBDZFyEQdiiqck-zZlM4QLhGDtoVE0ns)
+
+
 ## Active Users対策について
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## 動画投稿&ブログなどの対外発信
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## Slack 
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## 新歓について
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## #conference の運用方針
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## 予算申請ガイドラインの更新について
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## 休部に関するガイドライン
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## イベントにおける部費の支出
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## コロナ影響を受けた上での部費に関して
+:::warning
+:construction: 編集中 :wrench:
+:::
+
+[対応スレッド](/https://osk2019.slack.com/archives/C010L5UGTJM/p1590469385442900)
+
 ## Discordの運用について
+:::warning
+:construction: 編集中 :wrench:
+:::
+
 ## 初回活動実施場所につきまして
+:::warning
+:construction: 編集中 :wrench:
+:::
 
 ## その他
+:::warning
+:construction: 編集中 :wrench:
+:::
 ### 部室
 #### 議題
 地震対策ができていないことが議題へ
@@ -90,3 +187,6 @@ MTG前に話し合う内容、MTG中に議論内容が書かれた。
 **以前有志で議題についてまとめたもの**
 
 ## その他
+:::warning
+:construction: 編集中 :wrench:
+:::
