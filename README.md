@@ -102,7 +102,8 @@ ___
 #### 現状
 どの意見も解決へ向けての具体的な議論がなされずに日が経っています。
 > 現在は、COVID-19による状況を受け新たな議題[コロナ影響を受けた上での部費に関して](#コロナ影響を受けた上での部費に関して)が立ち上がっています。そちらも参照ください。
-> [name=執筆者(ilim)]
+> [name=執筆者(ilim)] 
+> [color=#bfe4ff]
 
 #### リンク
 [2019年度会計報告](https://docs.google.com/spreadsheets/d/1O4bLfHzKMRxuBDZFyEQdiiqck-zZlM4QLhGDtoVE0ns)
@@ -168,11 +169,32 @@ OSKの対外的活動への好機
 特に議論されていない。
 
 ## Slack times
-:::warning
-:construction: 編集中 :wrench:
-:::
+:::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280454007300)
+> [name=ilim]
+:::
 
+[](スペーサー)
+
+> **Times**とは?  
+> 参考: [まだtimes導入検討で消耗してんの？](https://qiita.com/JSON_HardCoder/items/6026f4ff38d30be2c331)
+> [name=執筆者(ilim)] 
+> [color=#bfe4ff]
+
+#### 背景
+* 現在やっていることの報告
+* 班を超えた部員同士の交流
+
+このための場所を作り、敷居を下げるため。
+
+#### 意見
+* 任意/強制のどちらがよいか
+* 各個への導入コストが高い
+
+#### 現状
+* τ-${name}というチャンネルで運用する
+
+と意見がまとまっている。
 
 ## 新歓について
 :::warning
