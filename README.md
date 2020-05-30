@@ -11,8 +11,8 @@ robots: noindex, nofollow
 ###### tags: `OSK` `commitee2020`
 
 
-# よく分かる! 議論の現状
-OSK2020に向けての議論を重ねているけど、正直長いし散財して追いきれない!
+# 議論の現状まとめ!
+OSK2020に向けての議論を重ねているけど、正直長いし散財して追いきれない!  
 → **まとめました**
 
 <!--
@@ -23,14 +23,16 @@ OSK2020に向けての議論を重ねているけど、正直長いし散財し�
 ## 目次
 [TOC]
 
-## 時系列歴史まとめ
+## 時系列歴史
 
 
-| 日時 | 内容 | 担当 | リンク |
-|:---:|:---:|:---:|:---:|
+| 日時 | 内容 | 要請者,実行者 | リンク |
+|:--:|:--:|:--:|:--:|
 | 3/3 | 第1回運営委員会MTG開催 | ほぼ公式(@まえD)? | |
 | 4/9 | 第2回運営委員会MTG開催 | ほぼ公式(@まえD)? | |
 | 5/9 | 公式Discordの共有 | まえD? | [リンク](https://osk2019.slack.com/archives/CGN2A8PUM/p1589886638050400) |
+| 5/31 | 臨時運営委員会 | Mo | |
+
 
 ___
 
@@ -57,12 +59,20 @@ ___
 :construction: 編集中 :wrench:
 :::
 
-<!-- ## 環境
-活動場所(オンライン)
-活動時期
-部室
-運営方法
-部費 -->
+## 環境
+### 部室
+### Slack
+
+## 運営方法
+
+## 部費の増減
+
+## COVID-19による影響
+### 活動場所
+### 活動時期
+
+## 提案段階のもの
+
 
 - - -
 
@@ -100,63 +110,92 @@ ___
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280394006400)
 
 ## 動画投稿&ブログなどの対外発信
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280436006900)
 
-## Slack 
+## Slack times
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280454007300)
+
 
 ## 新歓について
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280467007600)
 
 ## #conference の運用方針
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585315063040200)
 
 ## 予算申請ガイドラインの更新について
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585317296044600)
 
 ## 休部に関するガイドライン
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585318046046400)
 
 ## イベントにおける部費の支出
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585319898056400)
+
+## 委任状、及び議決権の放棄について
+:::warning
+:construction: 編集中 :wrench:
+:::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1586086574321500)
+
+## 退部に関するガイドライン
+:::warning
+:construction: 編集中 :wrench:
+:::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1586087336327200)
 
 ## コロナ影響を受けた上での部費に関して
 :::warning
 :construction: 編集中 :wrench:
 :::
-
-[対応スレッド](/https://osk2019.slack.com/archives/C010L5UGTJM/p1590469385442900)
+[対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590469385442900)
 
 ## Discordの運用について
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590469709443500)
 
 ## 初回活動実施場所につきまして
 :::warning
 :construction: 編集中 :wrench:
 :::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590472823454800)
+
+## 新入生のための説明会に関して
+:::warning
+:construction: 編集中 :wrench:
+:::
+> [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590636923090400)
 
 ## その他
 :::warning
 :construction: 編集中 :wrench:
 :::
+
 ### 部室
 #### 議題
 地震対策ができていないことが議題へ
@@ -187,6 +226,5 @@ MTG前に話し合う内容、MTG中に議論内容が書かれた。
 **以前有志で議題についてまとめたもの**
 
 ## その他
-:::warning
-:construction: 編集中 :wrench:
-:::
+
+[OSK Discordサーバーガイドライン（現状）](/7JvBjPWBTaC785FRVcJiCg) **公式Discord内で提案されたもの**
