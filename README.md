@@ -15,7 +15,23 @@ robots: noindex, nofollow
 と対応しています。  
 しかし、敷居を下げるため直接編集してもらっても構いません。  
 こちらでcommitとして扱います。
+
+またCSSについては [テーマ](/fJImH--7QzyZVT13D4UIMQ) で管理しています(自動ロード)。
+
+divタグで囲う際、タグの前後に空行がないとうまく働かない場合があります。  
+また、タグ内部の文字のシンタックスハイライトが消えてしまうので、
+抜け穴的方法ですが廃止されたタグを使い、以下のように書くと解決します。
+(シンタックスハイライトとhtmlタグのパースがおそらく別の方式で動いているからかと)
+```html=
+<div class="class_name"></tt>
+
+contents
+
+<div>
+```
 :::
+
+{%hackmd fJImH--7QzyZVT13D4UIMQ %}
 
 
 # 議論の現状まとめ!
@@ -43,6 +59,7 @@ OSK2020に向けての議論を重ねているけど、正直長いし散財し�
 
 ___
 
+<!--
 # 現在までになされたテーマ
 * 部費
 * 部則
@@ -57,15 +74,21 @@ ___
   * Slack times
 * 運営方法
   * オンライン化
-* 
+*  
+-->
 
 
 # 周知を目的とし概観把握のためのまとめ
+<!-- 
+大項目 - 小項目 に分けたい
+百科事典でいうと逆引き目次
+-->
 
 :::warning
 :construction: 編集中 :wrench:
 :::
 
+<!--
 ## 環境
 ### 部室
 ### Slack
@@ -79,6 +102,7 @@ ___
 ### 活動時期
 
 ## 提案段階のもの
+-->
 
 
 - - -
@@ -86,6 +110,7 @@ ___
 # conference2020での議題ベースの分類
 <!--
 時系列順
+百科事典でいうと目次
 -->
 
 [^no-pin]: ピン止めされたものは議論中 [リンク](https://osk2019.slack.com/archives/C010L5UGTJM/p1585281100010500)
@@ -117,16 +142,18 @@ ___
 #### リンク
 [2019年度会計報告](https://docs.google.com/spreadsheets/d/1O4bLfHzKMRxuBDZFyEQdiiqck-zZlM4QLhGDtoVE0ns)
 
+<div class="gidai"></tt>
 
 ## Active Users対策について
+
+<div class="a_word_summary">
+決議に必要な人数足りない。 出席しやすくするか、必要な人数を減らすか…
+</div>
+
 :::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280394006400)
 > [time=Sun, May 31, 2020 1:17 AM]
 :::
-
-```
-決議に必要な人数足りない。 出席しやすくするか、必要な人数を減らすか…
-```
 
 #### 背景
 [総会の決議方法](https://github.com/TUS-OSK/OSK-REGULATION/blob/master/%E5%BF%9C%E7%94%A8%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%83%A8%E8%A6%8F%E7%B4%84.md#%E7%AC%AC%E4%B9%9D%E6%9D%A1%E6%B1%BA%E8%AD%B0%E6%96%B9%E6%B3%95)として、「委任状を含め、三分の二以上部員が出席」することが前提にある。しかし、それを満たしそうにない状況にあり決議が行えないかもしれないことに困っている。
@@ -156,16 +183,20 @@ ___
 各意見に対する議論が混ざっていて、平行線。  
 Activeな人の属性を確認、現状の調査中。
 
+</div>
+<div class="gidai"></tt>
+
 ## 動画投稿&ブログなどの対外発信
+
+<div class="a_word_summary">
+動画投稿やブログで外部に発信しませんか?
+</div>
+
 :::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280436006900)
 > ==非ピン留め[^no-pin]==
 > [time=Sun, May 31, 2020 1:24 AM]
 :::
-
-```
-動画投稿やブログで外部に発信しませんか?
-```
 
 #### 背景
 OSKの対外的活動への好機
@@ -179,17 +210,21 @@ OSKの対外的活動への好機
 #### 現状
 特に議論されていない。
 
+</div>
+<div class="gidai"></tt>
+
 ## Slack times
+
+<div class="a_word_summary">
+Times(Slack上のTwitter)を導入し交流しましょう。
+</div>
+
 :::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1585280454007300)
 > [name=ilim]
 :::
 
-```
-Times(Slack上のTwitter)を導入し交流しましょう。
-```
-
-[](スペーサー)
+<br>
 
 > **Times**とは?  
 > 参考: [まだtimes導入検討で消耗してんの？](https://qiita.com/JSON_HardCoder/items/6026f4ff38d30be2c331)
@@ -210,6 +245,8 @@ Times(Slack上のTwitter)を導入し交流しましょう。
 * τ-${name}というチャンネルで運用する
 
 と意見がまとまっている。
+
+</div>
 
 ## 新歓について
 :::warning
@@ -253,16 +290,19 @@ Times(Slack上のTwitter)を導入し交流しましょう。
 :::
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1586087336327200)
 
+<div class="gidai"></tt>
+
 ## コロナ影響を受けた上での部費に関して
+
+<div class="a_word_summary">
+新型コロナで前期活動できないし、部費減らしたい。けれど、部費を払わないと議決権がないな…
+</div>
+
 :::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590469385442900)
 > ==非ピン留め[^no-pin]==
 > [time=Sun, May 31, 2020 10:54 AM]
 :::
-
-```
-新型コロナで前期活動できないし、部費減らしたい。けれど、部費を払わないと議決権がないな…
-```
 
 #### 背景
 新型コロナウイルス感染症(COVID-19)よる影響で
@@ -286,9 +326,14 @@ Discordでの活動を
 
 
 #### 現状
+以下のことが大体決まった。
+
 * 前期の途中からでもオフラインでの活動が行われるならば、年4000円の徴収  
 行われないのであれば年2000円の徴収とする
 * 運営委員会に限っては役員として1年間を承認されているので、部費を支払っていない人でも運営委員会での議決は有効である
+
+</div>
+<div class="gidai"></tt>
 
 ## Discordの運用について
 :::warning
@@ -296,17 +341,63 @@ Discordでの活動を
 :::
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590469709443500)
 
+</div>
+<div class="gidai"></tt>
+
 ## 初回活動実施場所につきまして
 :::warning
 :construction: 編集中 :wrench:
 :::
+:::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590472823454800)
+> ==非ピン留め[^no-pin]==
+> [time=Sun, May 31, 2020 11:47 AM]
+:::
+
+#### 背景
+???
+#### 意見
+* 新歓
+* 初回活動
+
+についての話が切り分けられていなく、区別が必要。
+
+> 現在は、???新たな議題[新入生のための説明会に関して](#新入生のための説明会に関して)が立ち上がっています。そちらも参照ください。
+> [name=執筆者(ilim)] 
+> [color=#bfe4ff]
+
+また、
+* 参加のハードルを下げるべき
+* オープンな場を用意すべき
+
+とのことでZoomが検討されています。
+
+
+#### 現状
+
+</div>
+<div class="gidai"></tt>
 
 ## 新入生のための説明会に関して
 :::warning
 :construction: 編集中 :wrench:
 :::
+:::spoiler メタ情報
 > [対応スレッド](https://osk2019.slack.com/archives/C010L5UGTJM/p1590636923090400)
+> ==非ピン留め[^no-pin]==
+> [time=Sun, May 31, 2020 11:53 AM]
+:::
+
+#### 背景
+#### 意見
+Discord上で活動する際、新入生を
+* 入部意思を示している人のみ呼び込む
+* 新しい募集もかける
+
+募集で参加した新入生に説明がなく待機が必要という事態になってはいけない。
+#### 現状
+
+</div>
 
 ## その他
 :::warning
@@ -336,6 +427,9 @@ MTG前に話し合う内容、MTG中に議論内容が書かれた。
 [MTGで話し合うこと(4/9)](/DDy30BjsTMqhSE65AXcL4g)
 **第2回運営委員会MTG** (4/9, 要請: @まえD, on Slack)
 MTG前に話し合う内容、MTG中に議論内容が書かれた。
+
+[話し合いたい内容](/hBAbD44EQ5i0fVF1EjwCrQ?both)
+**臨時運営委員会** (5/31, 要請: @Mo, on Zoom)
 
 ## まとめ類
 
